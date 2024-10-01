@@ -1,3 +1,7 @@
+'''
+predicting class 'Y'
+or 'N' if loan is sanctioned or not 
+dataset Data.csv '''
 import pandas as pd
 import numpy as np
 import math
