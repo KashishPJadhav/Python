@@ -1,6 +1,6 @@
 '''
 predicting class 'Y'
-or 'N' if loan is sanctioned or not 
+or 'N' that is if loan is sanctioned(YES-'Y') or not(NO-'N') 
 dataset Data.csv '''
 import pandas as pd
 import numpy as np
